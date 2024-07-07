@@ -28,21 +28,20 @@ This project serves as a stepping stone towards mastering formatted output. By i
 **Ready to unleash your inner printf pro?**
 
 1. **Clone the repository:**
-
-Utilisez ce code avec précaution.
-
-git clone https://<your_github_username>@github.com/<your_username>/ft_printf.git
-
+```bash
+git clone https://ohssineabdelfatah@github.com/ohssineabdelfatah/42_ft_printf.git
+```
 
 2. **Compile the project:**
 
+```bash
 make
-
+```
 
 3. **Link the library (if using in another project):**
-
+```bash
    - Specify the path to the compiled library (`libftprintf.a`) during compilation of your main project.
-
+```
 ### Usage
 
 **Crafting your formatted output:**
