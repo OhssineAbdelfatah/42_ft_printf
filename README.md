@@ -71,8 +71,9 @@ The greeting is Hello, world!
 Bonus Round (Optional)
 
 This project can be extended to implement additional functionalities not found in standard printf, pushing your formatting skills even further!
+
 Contributing
-
+```bash
 Feeling inspired? We welcome contributions! Fork the repository and share your improvements through pull requests.
-
+```
 Let's build a powerful and versatile ft_printf together!
