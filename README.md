@@ -61,12 +61,13 @@ int main() {
 
   return 0;
 }
-
+```
 This code will print:
 
+```bash
 The answer is 42
 The greeting is Hello, world!
-
+```
 Bonus Round (Optional)
 
 This project can be extended to implement additional functionalities not found in standard printf, pushing your formatting skills even further!
